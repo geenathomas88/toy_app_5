@@ -1,3 +1,5 @@
+# toy_app_5
+A minimal twitter like application using ruby on rails 5 tutorial
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
