@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 
-gem 'rails',        '5.0.0.1'
+gem 'rails',        '5.0.1'
 
 gem 'puma',         '3.4.0'
 
@@ -22,7 +22,7 @@ gem 'jbuilder',     '2.4.1'
 
 group :development, :test do
 
-  gem 'sqlite3', '1.3.11'
+  gem 'sqlite3', '1.3.12'
 
   gem 'byebug',  '9.0.0', platform: :mri
 
@@ -46,7 +46,6 @@ end
 
 group :production do
 
-  gem 'pg', '0.18.4'
 
 end
 
